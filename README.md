@@ -1,6 +1,8 @@
 # Real Estate Shiny Forecasting
 Real Estate Market Forecasting and Analytics
 
+## <a href="https://jjames.shinyapps.io/shinyHome/" target="_blank">Launch the Shiny app!</a>
+
 ## Introduction
 Real Estate Shiny allows the user to explore real estate market statistics and to employ the most acknowledged time series 
 forecasting algorithms to predict home values for up to 10 years, for over 20,000 markets.  Users will:
