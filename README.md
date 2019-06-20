@@ -1,8 +1,8 @@
-# shinyHome
+# Real Estate Shiny Forecasting
 Real Estate Market Forecasting and Analytics
 
 ## Introduction
-shinyHome allows the user to explore real estate market statistics and to employ the most acknowledged time series 
+Real Estate Shiny allows the user to explore real estate market statistics and to employ the most acknowledged time series 
 forecasting algorithms to predict home values for up to 10 years, for over 20,000 markets.  Users will:
 
 * Explore current and historical median home value data,
@@ -40,17 +40,12 @@ The file manifest is as follows:
 * hviAllZip: Historical home value data by zip code
 * models: Descriptions of forecasting algorithms employed
 
-## Copyright
-©John James, 2016
-
-## Contact 
-Developer: John James john.james.sf@gmail.com
-
 ## Known Bugs
 When running the structural model for time series by maximum likelihood (StructTS) the application occasionally throws the following error:
 Error in optim(start, f, method = method, hessian = TRUE, ...) :    L-BFGS-B needs finite values of 'fn'
 
 ## Credits and Acknowledgements
+* John James for the contribution and development
 * Huge acknowledgement to Zillow Research for the data.
 * Ramnath Vaidyanathan  for a beautiful charting package
 * Joe Cheng for his active support in the githubsphere
